@@ -1,0 +1,7 @@
+3ds max 2019 - 18 - 17 - 16
+obj - fbx - 3ds export
+vray next
+poly 10921
+verts 23356
+5 piece 2000x1500 render
+1 piece 2000x1500 wireframe render

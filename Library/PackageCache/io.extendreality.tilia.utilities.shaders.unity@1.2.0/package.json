@@ -1,0 +1,33 @@
+{
+    "name": "io.extendreality.tilia.utilities.shaders.unity",
+    "displayName": "Tilia Utilities Shaders Unity",
+    "description": "A collection of custom shaders for the Unity Software",
+    "version": "1.2.0",
+    "unity": "2018.3",
+    "unityRelease": "10f1",
+    "keywords": [
+        "shaders"
+    ],
+    "homepage": "https://github.com/ExtendRealityLtd/Tilia.Utilities.Shaders.Unity/",
+    "bugs": {
+        "url": "https://github.com/ExtendRealityLtd/Tilia.Utilities.Shaders.Unity/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/ExtendRealityLtd/Tilia.Utilities.Shaders.Unity.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Extend Reality Ltd",
+        "email": "hello@extendreality.io",
+        "url": "https://github.com/ExtendRealityLtd"
+    },
+    "files": [
+        "*.md",
+        "*.meta",
+        "*.asmdef",
+        "*.xml",
+        "Documentation",
+        "Runtime"
+    ]
+}

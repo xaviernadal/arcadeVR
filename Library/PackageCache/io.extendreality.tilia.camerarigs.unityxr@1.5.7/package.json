@@ -1,0 +1,43 @@
+{
+    "name": "io.extendreality.tilia.camerarigs.unityxr",
+    "displayName": "Tilia CameraRigs UnityXR",
+    "version": "1.5.7",
+    "description": "A camera rig prefab utilizing the legacy XR management system for the Unity software.",
+    "unity": "2018.3",
+    "unityRelease": "10f1",
+    "keywords": [
+        "pattern",
+        "camerarig",
+        "vr",
+        "ar",
+        "xr",
+        "spatial"
+    ],
+    "homepage": "https://github.com/ExtendRealityLtd/Tilia.CameraRigs.UnityXR/",
+    "bugs": {
+        "url": "https://github.com/ExtendRealityLtd/Tilia.CameraRigs.UnityXR/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/ExtendRealityLtd/Tilia.CameraRigs.UnityXR.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Extend Reality Ltd",
+        "email": "hello@extendreality.io",
+        "url": "https://github.com/ExtendRealityLtd"
+    },
+    "dependencies": {
+        "io.extendreality.zinnia.unity": "1.38.1"
+    },
+    "files": [
+        "*.md",
+        "*.meta",
+        "*.asmdef",
+        "*.xml",
+        "Documentation",
+        "Runtime",
+        "Editor",
+        "docfx.json"
+    ]
+}
